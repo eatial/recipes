@@ -7,3 +7,9 @@ Initial proposed branches:
 - Glutten Free 
 - Frugal 
 - Kosher 
+
+
+# How to use 
+
+Please use recipes and send updates, comments, iprovements as you do with code. 
+
