@@ -4,6 +4,7 @@ Recipe collection in plain Markdown format. Please help to verify, customize, im
 
 Goal is to have these recipes verified that really produce what expected and add variations in branches.  
 Initial proposed branches:  
+- Vegan
 - Glutten Free 
 - Frugal 
 - Kosher 
